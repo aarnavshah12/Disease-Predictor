@@ -74,8 +74,8 @@ This project is licensed under the MIT License.
 
 ## Acknowledgements
 
-- Thank you to the contributors of the project.
 - Inspired by various open-source disease prediction projects.
+- This project isn't 100% accurate due to the limitation of training and testing data. Therefore, it is still being worked on.
 
 ## Contact
 
