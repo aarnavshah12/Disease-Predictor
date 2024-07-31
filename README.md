@@ -7,6 +7,8 @@ This Disease Prediction System uses machine learning models to predict possible 
 
 ## Features
 
+![Screenshot 2024-07-31 003758](https://github.com/user-attachments/assets/2ab7b941-32d1-45c5-8248-86c318f5e63e)
+
 1. **Model Selection**: Choose between Random Forest, Decision Tree, or Naive Bayes for prediction.
 2. **User Authentication**: Login system to save user history and provide personalized experiences.
 3. **Help Section**: Instructions on how to use the application and interpret results.
