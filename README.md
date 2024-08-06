@@ -36,7 +36,7 @@ This Disease Prediction System uses machine learning models to predict possible 
 
 1. Run the application:
     ```bash
-    python disease_prediction_gui.py
+    python Disease_Prediction.py
     ```
 2. Login with the following credentials:
     - **Username**: `admin`
