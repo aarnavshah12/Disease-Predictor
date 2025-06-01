@@ -27,10 +27,6 @@ This Disease Prediction System uses machine learning models to predict possible 
     ```bash
     cd disease-prediction-system
     ```
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 
